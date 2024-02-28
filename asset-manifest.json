@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/webrtc-demo-fe/static/css/main.dbbf946f.chunk.css",
+    "main.js": "/webrtc-demo-fe/static/js/main.bab761b6.chunk.js",
+    "main.js.map": "/webrtc-demo-fe/static/js/main.bab761b6.chunk.js.map",
+    "runtime-main.js": "/webrtc-demo-fe/static/js/runtime-main.229c4756.js",
+    "runtime-main.js.map": "/webrtc-demo-fe/static/js/runtime-main.229c4756.js.map",
+    "static/js/2.2b6c3fe6.chunk.js": "/webrtc-demo-fe/static/js/2.2b6c3fe6.chunk.js",
+    "static/js/2.2b6c3fe6.chunk.js.map": "/webrtc-demo-fe/static/js/2.2b6c3fe6.chunk.js.map",
+    "index.html": "/webrtc-demo-fe/index.html",
+    "static/css/main.dbbf946f.chunk.css.map": "/webrtc-demo-fe/static/css/main.dbbf946f.chunk.css.map",
+    "static/js/2.2b6c3fe6.chunk.js.LICENSE.txt": "/webrtc-demo-fe/static/js/2.2b6c3fe6.chunk.js.LICENSE.txt",
+    "static/media/camera.b50348a3.svg": "/webrtc-demo-fe/static/media/camera.b50348a3.svg",
+    "static/media/cameraOff.a61d4a02.svg": "/webrtc-demo-fe/static/media/cameraOff.a61d4a02.svg",
+    "static/media/mic.c9c9788e.svg": "/webrtc-demo-fe/static/media/mic.c9c9788e.svg",
+    "static/media/micOff.3a72f682.svg": "/webrtc-demo-fe/static/media/micOff.3a72f682.svg",
+    "static/media/sendMessageButton.9add4f6d.svg": "/webrtc-demo-fe/static/media/sendMessageButton.9add4f6d.svg",
+    "static/media/switchToScreenSharing.900d9338.svg": "/webrtc-demo-fe/static/media/switchToScreenSharing.900d9338.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.229c4756.js",
+    "static/js/2.2b6c3fe6.chunk.js",
+    "static/css/main.dbbf946f.chunk.css",
+    "static/js/main.bab761b6.chunk.js"
+  ]
+}
